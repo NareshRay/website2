@@ -1,0 +1,117 @@
+body{
+  background-color: #2ec5ebdd;
+ /* border: 2px solid #21fe47;*/
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid #fea324 ;
+}
+/*div.head{
+  color: #1b0af0;
+}*/div.head{
+  background-color: green;
+  color: blue;
+  text-align: center;
+  font-family:"Comic Sans MS",Arial;
+  padding: 1px 10px 0 1px;
+  border:3px solid black;
+  }/*body{
+  background-color: pink;margin: 0;
+  border: 2px solid #fea324 ;
+  }*/div.gallery{
+    border:3px solid #001fff;
+   margin: 3px; 
+   float: left;
+   width: 75;
+  }div.gallery img{
+    width: 100%;
+    hyphens: auto;
+  }div.gallery:hover{;
+    border:  5px solid #20ff00;
+  }input[type=text],select,textarea{
+    width: 100%;
+    
+    border: 20px #e0d425;
+    padding: 10px;
+    margin-top:10px ;
+    margin-bottom: 20px;
+    resize: vertical;
+  }input[type=submit]{
+    background-color:#ef41f6 ;
+    color: #1fff26;
+    padding: 5px;
+    margin: 2px;
+    border: none;
+    
+  }*/li{
+    color:#30a428 ;
+    
+  }h2{
+    text-align:center ;
+    color:#15cf29fa ;
+    background-color: #3c29ff;
+  }
+  footer{
+    background-color: black;
+    text-align: center;
+    color:white ;
+    padding: 2px;
+    font-family: "Comic Sans MS",Arial;
+    border: 2px solid green;
+  }
+  
+  nav{
+    overflow: hidden;
+    background-color: #333;
+  
+  }nav a{
+    float:left;
+    color: white;
+    padding: 2px 2px 2px 2px;
+    text-decoration: none;
+    color: red;
+    
+  }
+  nav a:hover{
+    background-color: blue;
+    color:green ;
+  }div. video poster{
+    width: 100%;
+    height:auto ;
+    
+  }
+  selection{
+    color: pink;
+    
+  }section p{
+    color: blue;
+    padding: 0px 2px 0px 2px;
+    text-align: justify;
+  }section h2{
+    text-align: center;
+    
+  }.have{
+    background-color: #26ff27;
+  }.sad{
+    color:#ff4fc6 ;
+  }.sum{
+    color: #4b34ff;
+    background-color: #50ff75;
+    
+  }h1{
+    background-color: #43f454eb;
+    color:#ff5ed2 ;
+    
+    
+  }.how{
+    color:#f8f658f5 ;
+    text-align: justify;
+    margin: 2px;
+    padding: 5px;
+  }.howw{
+    color:#fc2a2a ;
+    text-align: justify;
+    margin:2px ;
+    padding: 5px;
+  }
+
+  
